@@ -17,6 +17,14 @@ See [Vite Configuration Reference](https://vite.dev/config/).
 ## Project Setup
 
 ```sh
+nvm install
+```
+
+```sh
+nvm use
+```
+
+```sh
 pnpm install
 ```
 
