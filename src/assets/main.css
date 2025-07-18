@@ -1,1 +1,6 @@
 @import 'tailwindcss';
+
+.bg-scroll {
+  background-color: #bd832c;
+  background-image: url('/src/assets/images/textures/light-paper-fibers.png');
+}
