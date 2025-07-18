@@ -1,4 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=UnifrakturMaguntia&display=swap');
 @import 'tailwindcss';
+
+@theme {
+  --font-unifrakturmaguntia: 'UnifrakturMaguntia', cursive;
+  --font-ebgaramond: 'EB+Garamond', serif;
+}
 
 .debug {
   @apply border-2 border-dashed border-red-500;
