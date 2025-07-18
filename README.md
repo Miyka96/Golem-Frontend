@@ -34,6 +34,11 @@ pnpm install
 pnpm dev
 ```
 
+### Expose the Development Server to the Internet with [ngrok](https://ngrok.com/)
+```sh
+ngrok http 5173
+```
+
 ### Type-Check, Compile and Minify for Production
 
 ```sh
